@@ -22,7 +22,7 @@ jobs:
               run: python -m pip install --upgrade pip
            
 
-            - name: Run python script with helm commands
+            - name: Run python script with some input to print
               run: python script.py Hi "Good Morning" "How are you" Bye
 
 
