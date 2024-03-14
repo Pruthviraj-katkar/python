@@ -1,4 +1,4 @@
-name: python script with helm commands
+name: Workflow to print arg in terminal
 on:
     workflow_dispatch:
 jobs:
